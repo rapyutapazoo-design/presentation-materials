@@ -1,3 +1,6 @@
 [submodule "理事会向け/デジタル化ロードマップ"]
 	path = 理事会向け/デジタル化ロードマップ
 	url = https://github.com/rapyutapazoo-design/mansion-digital-roadmap.git
+[submodule "理事会向け/管理室用タブレット比較"]
+	path = 理事会向け/管理室用タブレット比較
+	url = https://github.com/rapyutapazoo-design/tablet-comparison-proposals.git
