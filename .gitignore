@@ -1,0 +1,14 @@
+# Presentation Materials Repo GitIgnore
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Gemini / Antigravity folders (if they appear locally)
+.gemini/
+.antigravity/
+
+# Temporary files
+*.tmp
+*.bak
+~$*
